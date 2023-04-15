@@ -18,15 +18,15 @@ Medium
 
 [solution.go](solution.go)
 
-[LeetCode submissions section](https://leetcode.com/problems/bitwise-and-of-numbers-range/submissions/934364254/)
+[LeetCode submissions section](https://leetcode.com/problems/bitwise-and-of-numbers-range/submissions/934366901/)
 
 ### Performance
 
-[LeetCode submission details](https://leetcode.com/submissions/detail/934364254/)
+[LeetCode submission details](https://leetcode.com/submissions/detail/934366901/)
 
 #### CPU
 
-Took 797 ms (beats 10.91%)
+Took 325 ms (beats 18.18%)
 
 #### Memory
 
