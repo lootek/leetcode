@@ -22,7 +22,7 @@ Beats 100.00%
 
 Used 3.9 MB
 
-Beats 91.66%
+Beats 91.10%
 
 ## Problem statement
 
@@ -63,4 +63,4 @@ An **island** is surrounded by water and is formed by connecting adjacent lands 
 
 ### Social
 
-:thumbsup: 19697 / :thumbsdown: 435
+:thumbsup: 19710 / :thumbsdown: 435
