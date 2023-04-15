@@ -8,15 +8,15 @@ Medium
 
 ### Tags
 
-[Bit Manipulation](https://leetcode.com/tag/Bit Manipulation)
+[Bit Manipulation](https://leetcode.com/tag/bit-manipulation)
 
 ## Solution performance
 
 ### CPU
 
-Took 325 ms
+Took 797 ms
 
-Beats 17.65%
+Beats 9.80%
 
 ### Memory
 
