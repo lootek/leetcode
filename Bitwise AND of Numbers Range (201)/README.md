@@ -1,6 +1,6 @@
 # Bitwise AND of Numbers Range (201)
 
-## Category
+## Problem
 
 ### Level
 
@@ -10,15 +10,25 @@ Medium
 
 [Bit Manipulation](https://leetcode.com/tag/bit-manipulation)
 
-## Solution performance
+## Solution
 
-### CPU
+### Code
 
-Took 325 ms
+[code](solution.go)
 
-Beats 18.52%
+[submissions section](https://leetcode.com/problems/bitwise-and-of-numbers-range/submissions/934364254/)
 
-### Memory
+### Performance
+
+[submission details](https://leetcode.com/submissions/detail/934364254/)
+
+#### CPU
+
+Took 797 ms
+
+Beats 11.11%
+
+#### Memory
 
 Used 5.2 MB
 
@@ -52,6 +62,6 @@ Given two integers `left` and `right` that represent the range `[left, right]`, 
 
 * `0 <= left <= right <= 231 - 1`
 
-### Social
+## Social
 
 :thumbsup: 2816 / :thumbsdown: 198
