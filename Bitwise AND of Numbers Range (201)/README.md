@@ -14,15 +14,15 @@ Medium
 
 ### CPU
 
-Took 325 ms
+Took 797 ms
 
-Beats 17.65%
+Beats 11.11%
 
 ### Memory
 
 Used 5.2 MB
 
-Beats 5.88%
+Beats 5.56%
 
 ## Problem statement
 
@@ -54,4 +54,4 @@ Given two integers `left` and `right` that represent the range `[left, right]`, 
 
 ### Social
 
-:thumbsup: 2815 / :thumbsdown: 197
+:thumbsup: 2816 / :thumbsdown: 198
