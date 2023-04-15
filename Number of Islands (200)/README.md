@@ -8,31 +8,27 @@ Medium
 
 ### Tags
 
-[Array](https://leetcode.com/tag/array),[Depth-First Search](https://leetcode.com/tag/depth-first-search),[Breadth-First Search](https://leetcode.com/tag/breadth-first-search),[Union Find](https://leetcode.com/tag/union-find),[Matrix](https://leetcode.com/tag/matrix)
+ [Array](https://leetcode.com/tag/array), [Depth-First Search](https://leetcode.com/tag/depth-first-search), [Breadth-First Search](https://leetcode.com/tag/breadth-first-search), [Union Find](https://leetcode.com/tag/union-find), [Matrix](https://leetcode.com/tag/matrix)
 
 ## Solution
 
 ### Code
 
-[code](solution.go)
+[solution.go](solution.go)
 
-[submissions section](https://leetcode.com/problems/number-of-islands/submissions/934124999/)
+[LeetCode submissions section](https://leetcode.com/problems/number-of-islands/submissions/934124999/)
 
 ### Performance
 
-[submission details](https://leetcode.com/submissions/detail/934124999/)
+[LeetCode submission details](https://leetcode.com/submissions/detail/934124999/)
 
 #### CPU
 
-Took 0 ms
-
-Beats 100.00%
+Took 0 ms (beats 100.00%)
 
 #### Memory
 
-Used 3.9 MB
-
-Beats 91.10%
+Used 3.9 MB (beats 91.10%)
 
 ## Problem statement
 
@@ -71,6 +67,6 @@ An **island** is surrounded by water and is formed by connecting adjacent lands 
 * `1 <= m, n <= 300`
 * `grid[i][j]` is `'0'` or `'1'`.
 
-## Social
+## Social rank
 
 :thumbsup: 19710 / :thumbsdown: 435
