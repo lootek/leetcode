@@ -13,8 +13,8 @@ Tags: Bit Manipulation
 
 ### CPU
 
-Took 797 ms
-Beats 9.803699999999996%
+Took 325 ms
+Beats 17.6469%
 
 ### Memory
 
