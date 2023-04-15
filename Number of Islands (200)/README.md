@@ -1,6 +1,8 @@
 # Number of Islands (200)
 
-## Problem
+## The Problem
+
+[Number of Islands (200)](https://leetcode.com/problems/number-of-islands)
 
 ### Level
 
@@ -31,8 +33,6 @@ Took 0 ms (beats 100.00%)
 Used 3.9 MB (beats 91.10%)
 
 ## Problem statement
-
-[Number of Islands (200)](https://leetcode.com/problems/number-of-islands)
 
 Given an `m x n` 2D binary grid `grid` which represents a map of `'1'`s (land) and `'0'`s (water), return _the number of islands_.
 
