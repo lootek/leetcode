@@ -3,16 +3,16 @@ func rangeBitwiseAnd(left int, right int) int {
         return 0
     }
 
-    initial2powValue := 0
-    for val := 1; val < right; val = val << 1 {
-        initial2powValue = val
-    }
+    // initial2powValue := 0
+    // for val := 1; val < right; val = val << 1 {
+    //     initial2powValue = val
+    // }
 
     // fmt.Println(initial2powValue)
 
-    if initial2powValue > left {
-        return 0
-    }
+    // if initial2powValue > left {
+    //     left = initial2powValue
+    // }
 
     res := left & right
     // fmt.Println(left, right, res)
@@ -20,8 +20,8 @@ func rangeBitwiseAnd(left int, right int) int {
         left++
         right--
 
-        res &= left
-        res &= right
+        res = res & left
+        res = res & right
     }
 
     return res

@@ -18,19 +18,19 @@ Medium
 
 [solution.go](solution.go)
 
-[LeetCode submissions section](https://leetcode.com/problems/bitwise-and-of-numbers-range/submissions/934366901/)
+[LeetCode submissions section](https://leetcode.com/problems/bitwise-and-of-numbers-range/submissions/934364254/)
 
 ### Performance
 
-[LeetCode submission details](https://leetcode.com/submissions/detail/934366901/)
+[LeetCode submission details](https://leetcode.com/submissions/detail/934364254/)
 
 #### CPU
 
-Took 325 ms (beats 18.52%)
+Took 797 ms (beats 10.91%)
 
 #### Memory
 
-Used 5.2 MB (beats 5.56%)
+Used 5.2 MB (beats 5.45%)
 
 ## Problem statement
 
@@ -60,4 +60,4 @@ Given two integers `left` and `right` that represent the range `[left, right]`, 
 
 ## Social rank
 
-:thumbsup: 2816 / :thumbsdown: 198
+:thumbsup: 2818 / :thumbsdown: 198
