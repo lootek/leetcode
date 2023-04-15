@@ -30,7 +30,7 @@ Took 0 ms (beats 100.00%)
 
 #### Memory
 
-Used 3.9 MB (beats 91.10%)
+Used 3.9 MB (beats 90.66%)
 
 ## Problem statement
 
@@ -69,4 +69,4 @@ An **island** is surrounded by water and is formed by connecting adjacent lands 
 
 ## Social rank
 
-:thumbsup: 19710 / :thumbsdown: 435
+:thumbsup: 19713 / :thumbsdown: 435
