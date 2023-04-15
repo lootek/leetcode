@@ -8,7 +8,7 @@ Medium
 
 ### Tags
 
-[Array](https://leetcode.com/tag/Array),[Depth-First Search](https://leetcode.com/tag/Depth-First Search),[Breadth-First Search](https://leetcode.com/tag/Breadth-First Search),[Union Find](https://leetcode.com/tag/Union Find),[Matrix](https://leetcode.com/tag/Matrix)
+[Array](https://leetcode.com/tag/array),[Depth-First Search](https://leetcode.com/tag/depth-first-search),[Breadth-First Search](https://leetcode.com/tag/breadth-first-search),[Union Find](https://leetcode.com/tag/union-find),[Matrix](https://leetcode.com/tag/matrix)
 
 ## Solution performance
 
@@ -63,4 +63,4 @@ An **island** is surrounded by water and is formed by connecting adjacent lands 
 
 ### Social
 
-:thumbsup: 19692 / :thumbsdown: 436
+:thumbsup: 19697 / :thumbsdown: 435
