@@ -14,9 +14,9 @@ Medium
 
 ### CPU
 
-Took 797 ms
+Took 325 ms
 
-Beats 9.80%
+Beats 17.65%
 
 ### Memory
 
