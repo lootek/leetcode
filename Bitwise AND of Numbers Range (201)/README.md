@@ -14,7 +14,7 @@ Bit Manipulation
 
 ### CPU
 
-Took 797 ms
+Took 325 ms
 
 Beats %
 
