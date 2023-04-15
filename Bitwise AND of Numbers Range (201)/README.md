@@ -16,17 +16,17 @@ Medium
 
 [code](solution.go)
 
-[submissions section](https://leetcode.com/problems/bitwise-and-of-numbers-range/submissions/934364254/)
+[submissions section](https://leetcode.com/problems/bitwise-and-of-numbers-range/submissions/934366901/)
 
 ### Performance
 
-[submission details](https://leetcode.com/submissions/detail/934364254/)
+[submission details](https://leetcode.com/submissions/detail/934366901/)
 
 #### CPU
 
-Took 797 ms
+Took 325 ms
 
-Beats 11.11%
+Beats 18.52%
 
 #### Memory
 
