@@ -1,6 +1,8 @@
 # Bitwise AND of Numbers Range (201)
 
-## Problem
+## The Problem
+
+[Bitwise AND of Numbers Range (201)](https://leetcode.com/problems/bitwise-and-of-numbers-range)
 
 ### Level
 
@@ -16,23 +18,21 @@ Medium
 
 [solution.go](solution.go)
 
-[LeetCode submissions section](https://leetcode.com/problems/bitwise-and-of-numbers-range/submissions/934366901/)
+[LeetCode submissions section](https://leetcode.com/problems/bitwise-and-of-numbers-range/submissions/934364254/)
 
 ### Performance
 
-[LeetCode submission details](https://leetcode.com/submissions/detail/934366901/)
+[LeetCode submission details](https://leetcode.com/submissions/detail/934364254/)
 
 #### CPU
 
-Took 325 ms (beats 18.52%)
+Took 797 ms (beats 11.11%)
 
 #### Memory
 
 Used 5.2 MB (beats 5.56%)
 
 ## Problem statement
-
-[Bitwise AND of Numbers Range (201)](https://leetcode.com/problems/bitwise-and-of-numbers-range)
 
 Given two integers `left` and `right` that represent the range `[left, right]`, return _the bitwise AND of all numbers in this range, inclusive_.
 
