@@ -16,13 +16,13 @@ Medium
 
 Took 122 ms
 
-Beats 44.84%
+Beats 44.99%
 
 ### Memory
 
 Used 14.2 MB
 
-Beats 56.95%
+Beats 56.79%
 
 ## Problem statement
 
