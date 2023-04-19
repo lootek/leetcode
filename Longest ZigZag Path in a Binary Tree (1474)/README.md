@@ -8,7 +8,7 @@ Medium
 
 ### Tags
 
-[Dynamic Programming](https://leetcode.com/tag/Dynamic Programming),[Tree](https://leetcode.com/tag/Tree),[Depth-First Search](https://leetcode.com/tag/Depth-First Search),[Binary Tree](https://leetcode.com/tag/Binary Tree)
+[Dynamic Programming](https://leetcode.com/tag/dynamic-programming),[Tree](https://leetcode.com/tag/tree),[Depth-First Search](https://leetcode.com/tag/depth-first-search),[Binary Tree](https://leetcode.com/tag/binary-tree)
 
 ## Solution performance
 
