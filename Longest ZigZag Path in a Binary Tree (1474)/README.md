@@ -1,6 +1,8 @@
 # Longest ZigZag Path in a Binary Tree (1474)
 
-## Problem
+## The Problem
+
+[Longest ZigZag Path in a Binary Tree (1474)](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)
 
 ### Level
 
@@ -31,8 +33,6 @@ Took 122 ms (beats 44.99%)
 Used 14.2 MB (beats 56.79%)
 
 ## Problem statement
-
-[Longest ZigZag Path in a Binary Tree (1474)](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)
 
 You are given the `root` of a binary tree.
 
