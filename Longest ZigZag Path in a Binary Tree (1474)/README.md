@@ -26,11 +26,11 @@ Medium
 
 #### CPU
 
-Took 122 ms (beats 44.99%)
+Took 122 ms (beats 45.05%)
 
 #### Memory
 
-Used 14.2 MB (beats 56.79%)
+Used 14.2 MB (beats 56.87%)
 
 ## Problem statement
 
@@ -78,4 +78,4 @@ Return _the longest **ZigZag** path contained in that tree_.
 
 ## Social rank
 
-:thumbsup: 2795 / :thumbsdown: 54
+:thumbsup: 2796 / :thumbsdown: 55
