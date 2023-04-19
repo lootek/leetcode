@@ -8,31 +8,27 @@ Medium
 
 ### Tags
 
-[Dynamic Programming](https://leetcode.com/tag/dynamic-programming),[Tree](https://leetcode.com/tag/tree),[Depth-First Search](https://leetcode.com/tag/depth-first-search),[Binary Tree](https://leetcode.com/tag/binary-tree)
+ [Dynamic Programming](https://leetcode.com/tag/dynamic-programming), [Tree](https://leetcode.com/tag/tree), [Depth-First Search](https://leetcode.com/tag/depth-first-search), [Binary Tree](https://leetcode.com/tag/binary-tree)
 
 ## Solution
 
 ### Code
 
-[code](solution.go)
+[solution.go](solution.go)
 
-[submissions section](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/submissions/936605441/)
+[LeetCode submissions section](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/submissions/936605441/)
 
 ### Performance
 
-[submission details](https://leetcode.com/submissions/detail/936605441/)
+[LeetCode submission details](https://leetcode.com/submissions/detail/936605441/)
 
 #### CPU
 
-Took 122 ms
-
-Beats 44.99%
+Took 122 ms (beats 44.99%)
 
 #### Memory
 
-Used 14.2 MB
-
-Beats 56.79%
+Used 14.2 MB (beats 56.79%)
 
 ## Problem statement
 
@@ -80,6 +76,6 @@ Return _the longest **ZigZag** path contained in that tree_.
 * The number of nodes in the tree is in the range `[1, 5 * 104]`.
 * `1 <= Node.val <= 100`
 
-## Social
+## Social rank
 
 :thumbsup: 2795 / :thumbsdown: 54
