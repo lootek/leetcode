@@ -1,6 +1,6 @@
 # Sign of the Product of an Array (1950)
 
-## Category
+## Problem
 
 ### Level
 
@@ -10,15 +10,25 @@ Easy
 
 [Array](https://leetcode.com/tag/array),[Math](https://leetcode.com/tag/math)
 
-## Solution performance
+## Solution
 
-### CPU
+### Code
+
+[code](solution.go)
+
+[submissions section](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/943172914/)
+
+### Performance
+
+[submission details](https://leetcode.com/submissions/detail/943172914/)
+
+#### CPU
 
 Took 3 ms
 
 Beats 86.82%
 
-### Memory
+#### Memory
 
 Used 3.3 MB
 
@@ -64,6 +74,6 @@ Return `signFunc(product)`.
 * `1 <= nums.length <= 1000`
 * `-100 <= nums[i] <= 100`
 
-### Social
+## Social
 
 :thumbsup: 1823 / :thumbsdown: 182
