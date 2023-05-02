@@ -16,13 +16,13 @@ Easy
 
 Took 3 ms
 
-Beats 86.92%
+Beats 86.82%
 
 ### Memory
 
 Used 3.3 MB
 
-Beats 98.81%
+Beats 98.82%
 
 ## Problem statement
 
@@ -66,4 +66,4 @@ Return `signFunc(product)`.
 
 ### Social
 
-:thumbsup: 1820 / :thumbsdown: 182
+:thumbsup: 1823 / :thumbsdown: 182
