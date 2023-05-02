@@ -8,31 +8,27 @@ Easy
 
 ### Tags
 
-[Array](https://leetcode.com/tag/array),[Math](https://leetcode.com/tag/math)
+ [Array](https://leetcode.com/tag/array), [Math](https://leetcode.com/tag/math)
 
 ## Solution
 
 ### Code
 
-[code](solution.go)
+[solution.go](solution.go)
 
-[submissions section](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/943172914/)
+[LeetCode submissions section](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/943172914/)
 
 ### Performance
 
-[submission details](https://leetcode.com/submissions/detail/943172914/)
+[LeetCode submission details](https://leetcode.com/submissions/detail/943172914/)
 
 #### CPU
 
-Took 3 ms
-
-Beats 86.82%
+Took 3 ms (beats 86.82%)
 
 #### Memory
 
-Used 3.3 MB
-
-Beats 98.82%
+Used 3.3 MB (beats 98.82%)
 
 ## Problem statement
 
@@ -74,6 +70,6 @@ Return `signFunc(product)`.
 * `1 <= nums.length <= 1000`
 * `-100 <= nums[i] <= 100`
 
-## Social
+## Social rank
 
 :thumbsup: 1823 / :thumbsdown: 182
