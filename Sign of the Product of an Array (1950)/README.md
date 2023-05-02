@@ -26,7 +26,7 @@ Easy
 
 #### CPU
 
-Took 3 ms (beats 86.82%)
+Took 3 ms (beats 86.77%)
 
 #### Memory
 
@@ -72,4 +72,4 @@ Return `signFunc(product)`.
 
 ## Social rank
 
-:thumbsup: 1823 / :thumbsdown: 182
+:thumbsup: 1828 / :thumbsdown: 182
