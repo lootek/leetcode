@@ -8,7 +8,7 @@ Easy
 
 ### Tags
 
-[Array](https://leetcode.com/tag/Array),[Math](https://leetcode.com/tag/Math)
+[Array](https://leetcode.com/tag/array),[Math](https://leetcode.com/tag/math)
 
 ## Solution performance
 
