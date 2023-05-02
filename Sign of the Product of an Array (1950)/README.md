@@ -1,6 +1,8 @@
 # Sign of the Product of an Array (1950)
 
-## Problem
+## The Problem
+
+[Sign of the Product of an Array (1950)](https://leetcode.com/problems/sign-of-the-product-of-an-array)
 
 ### Level
 
@@ -31,8 +33,6 @@ Took 3 ms (beats 86.82%)
 Used 3.3 MB (beats 98.82%)
 
 ## Problem statement
-
-[Sign of the Product of an Array (1950)](https://leetcode.com/problems/sign-of-the-product-of-an-array)
 
 There is a function `signFunc(x)` that returns:
 
