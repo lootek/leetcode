@@ -16,13 +16,13 @@ Medium
 
 Took 17 ms
 
-Beats 19.80%
+Beats 23.38%
 
 ### Memory
 
 Used 2.8 MB
 
-Beats 82.18%
+Beats 82.94%
 
 ## Problem statement
 
@@ -70,4 +70,4 @@ And in round 2, the third senator can just announce the victory since he is the 
 
 ### Social
 
-:thumbsup: 1698 / :thumbsdown: 1198
+:thumbsup: 1714 / :thumbsdown: 1211
