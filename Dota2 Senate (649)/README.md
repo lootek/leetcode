@@ -1,6 +1,6 @@
 # Dota2 Senate (649)
 
-## Category
+## Problem
 
 ### Level
 
@@ -10,15 +10,25 @@ Medium
 
 [String](https://leetcode.com/tag/string),[Greedy](https://leetcode.com/tag/greedy),[Queue](https://leetcode.com/tag/queue)
 
-## Solution performance
+## Solution
 
-### CPU
+### Code
+
+[code](solution.go)
+
+[submissions section](https://leetcode.com/problems/dota2-senate/submissions/944851128/)
+
+### Performance
+
+[submission details](https://leetcode.com/submissions/detail/944851128/)
+
+#### CPU
 
 Took 17 ms
 
 Beats 23.38%
 
-### Memory
+#### Memory
 
 Used 2.8 MB
 
@@ -68,6 +78,6 @@ And in round 2, the third senator can just announce the victory since he is the 
 * `1 <= n <= 104`
 * `senate[i]` is either `'R'` or `'D'`.
 
-### Social
+## Social
 
 :thumbsup: 1714 / :thumbsdown: 1211
