@@ -1,3 +1,0 @@
-https://leetcode.com/problems/dota2-senate/description/
-
-https://leetcode.com/problems/dota2-senate/submissions/944851128/
