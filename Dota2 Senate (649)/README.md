@@ -8,31 +8,27 @@ Medium
 
 ### Tags
 
-[String](https://leetcode.com/tag/string),[Greedy](https://leetcode.com/tag/greedy),[Queue](https://leetcode.com/tag/queue)
+ [String](https://leetcode.com/tag/string), [Greedy](https://leetcode.com/tag/greedy), [Queue](https://leetcode.com/tag/queue)
 
 ## Solution
 
 ### Code
 
-[code](solution.go)
+[solution.go](solution.go)
 
-[submissions section](https://leetcode.com/problems/dota2-senate/submissions/944851128/)
+[LeetCode submissions section](https://leetcode.com/problems/dota2-senate/submissions/944851128/)
 
 ### Performance
 
-[submission details](https://leetcode.com/submissions/detail/944851128/)
+[LeetCode submission details](https://leetcode.com/submissions/detail/944851128/)
 
 #### CPU
 
-Took 17 ms
-
-Beats 23.38%
+Took 17 ms (beats 23.38%)
 
 #### Memory
 
-Used 2.8 MB
-
-Beats 82.94%
+Used 2.8 MB (beats 82.94%)
 
 ## Problem statement
 
@@ -78,6 +74,6 @@ And in round 2, the third senator can just announce the victory since he is the 
 * `1 <= n <= 104`
 * `senate[i]` is either `'R'` or `'D'`.
 
-## Social
+## Social rank
 
 :thumbsup: 1714 / :thumbsdown: 1211
