@@ -26,11 +26,11 @@ Medium
 
 #### CPU
 
-Took 17 ms (beats 23.38%)
+Took 17 ms (beats 23.27%)
 
 #### Memory
 
-Used 2.8 MB (beats 82.94%)
+Used 2.8 MB (beats 83.02%)
 
 ## Problem statement
 
@@ -76,4 +76,4 @@ And in round 2, the third senator can just announce the victory since he is the 
 
 ## Social rank
 
-:thumbsup: 1714 / :thumbsdown: 1212
+:thumbsup: 1724 / :thumbsdown: 1215
