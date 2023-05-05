@@ -8,7 +8,7 @@ Medium
 
 ### Tags
 
-[String](https://leetcode.com/tag/String),[Greedy](https://leetcode.com/tag/Greedy),[Queue](https://leetcode.com/tag/Queue)
+[String](https://leetcode.com/tag/string),[Greedy](https://leetcode.com/tag/greedy),[Queue](https://leetcode.com/tag/queue)
 
 ## Solution performance
 
@@ -70,4 +70,4 @@ And in round 2, the third senator can just announce the victory since he is the 
 
 ### Social
 
-:thumbsup: 1684 / :thumbsdown: 1191
+:thumbsup: 1698 / :thumbsdown: 1198
