@@ -1,6 +1,8 @@
 # Dota2 Senate (649)
 
-## Problem
+## The Problem
+
+[Dota2 Senate (649)](https://leetcode.com/problems/dota2-senate)
 
 ### Level
 
@@ -31,8 +33,6 @@ Took 17 ms (beats 23.38%)
 Used 2.8 MB (beats 82.94%)
 
 ## Problem statement
-
-[Dota2 Senate (649)](https://leetcode.com/problems/dota2-senate)
 
 In the world of Dota2, there are two parties: the Radiant and the Dire.
 
@@ -76,4 +76,4 @@ And in round 2, the third senator can just announce the victory since he is the 
 
 ## Social rank
 
-:thumbsup: 1714 / :thumbsdown: 1211
+:thumbsup: 1714 / :thumbsdown: 1212
