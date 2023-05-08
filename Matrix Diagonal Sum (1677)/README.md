@@ -18,15 +18,15 @@ Easy
 
 [solution.go](solution.go)
 
-[LeetCode submissions section](https://leetcode.com/problems/matrix-diagonal-sum/submissions/946646062/)
+[LeetCode submissions section](https://leetcode.com/problems/matrix-diagonal-sum/submissions/946647360/)
 
 ### Performance
 
-[LeetCode submission details](https://leetcode.com/submissions/detail/946646062/)
+[LeetCode submission details](https://leetcode.com/submissions/detail/946647360/)
 
 #### CPU
 
-Took 19 ms (beats 7.89%)
+Took 13 ms (beats 42.98%)
 
 #### Memory
 
