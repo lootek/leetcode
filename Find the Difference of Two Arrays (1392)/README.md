@@ -18,19 +18,19 @@ Easy
 
 [solution.go](solution.go)
 
-[LeetCode submissions section](https://leetcode.com/problems/find-the-difference-of-two-arrays/submissions/947912528/)
+[LeetCode submissions section](https://leetcode.com/problems/find-the-difference-of-two-arrays/submissions/947912849/)
 
 ### Performance
 
-[LeetCode submission details](https://leetcode.com/submissions/detail/947912528/)
+[LeetCode submission details](https://leetcode.com/submissions/detail/947912849/)
 
 #### CPU
 
-Took 42 ms (beats 12.02%)
+Took 28 ms (beats 82.31%)
 
 #### Memory
 
-Used 7.3 MB (beats 77.13%)
+Used 7.4 MB (beats 49.66%)
 
 ## Problem statement
 
