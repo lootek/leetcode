@@ -23,8 +23,9 @@ func mergeKLists(lists []*ListNode) *ListNode {
             break
         }
 
+        newNode := lists[min_i]
         lists[min_i] = lists[min_i].Next
-        newNode := &ListNode{min, nil}
+
         if resHead == nil {
             resHead = newNode
             resIter = resHead

@@ -18,19 +18,19 @@ Hard
 
 [solution.go](solution.go)
 
-[LeetCode submissions section](https://leetcode.com/problems/merge-k-sorted-lists/submissions/947933534/)
+[LeetCode submissions section](https://leetcode.com/problems/merge-k-sorted-lists/submissions/947935820/)
 
 ### Performance
 
-[LeetCode submission details](https://leetcode.com/submissions/detail/947933534/)
+[LeetCode submission details](https://leetcode.com/submissions/detail/947935820/)
 
 #### CPU
 
-Took 216 ms (beats 19.77%)
+Took 212 ms (beats 20.50%)
 
 #### Memory
 
-Used 6 MB (beats 45.00%)
+Used 5.3 MB (beats 97.64%)
 
 ## Problem statement
 
