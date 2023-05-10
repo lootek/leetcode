@@ -1,18 +1,27 @@
 func findDifference(nums1 []int, nums2 []int) [][]int {
-    map1 := asMap(nums1)
-    map2 := asMap(nums2)
+    map1Ch := asMap(nums1)
+    map2Ch := asMap(nums2)
 
-    only1 := <- diff(map1, map2)
-    only2 := <- diff(map2, map1)
+    map1 := <- map1Ch
+    map2 := <- map2Ch
 
-    return [][]int{only1, only2}
+    return [][]int{
+        <- diff(map1, map2),
+        <- diff(map2, map1),
+    }
 }
 
-func asMap(nums []int) map[int]struct{} {
-    res := map[int]struct{}{}
-    for _, v := range nums {
-        res[v] = struct{}{}
-    }
+func asMap(nums []int) chan map[int]struct{} {
+    res := make(chan map[int]struct{})
+
+    go func() {
+        mapped := make(map[int]struct{}, len(nums))
+        for _, v := range nums {
+            mapped[v] = struct{}{}
+        }
+
+        res <- mapped
+    }()
 
     return res
 }
@@ -21,7 +30,7 @@ func diff(map1, map2 map[int]struct{}) chan []int {
     res := make(chan []int)
 
     go func() {
-        only1 := []int{}
+        only1 := make([]int, 0, len(map1))
         for k := range map1 {
             if _, ok := map2[k]; !ok {
                 only1 = append(only1, k)
