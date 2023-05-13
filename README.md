@@ -3,4 +3,4 @@
 
 My solutions to some of the [LeetCode problems](https://leetcode.com/problemset/all/)
 
-Synchronized automatically using https://github.com/lootek/leetcode-sync
+Synchronized automatically using [LeetCode Sync v2](https://github.com/lootek/leetcode-sync)
