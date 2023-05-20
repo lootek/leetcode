@@ -26,11 +26,11 @@ Hard
 
 #### CPU
 
-Took 80 ms (beats 28.30%)
+Took 80 ms (beats 18.75%)
 
 #### Memory
 
-Used 19.6 MB (beats 16.07%)
+Used 19.6 MB (beats 68.75%)
 
 ## Problem statement
 
@@ -68,4 +68,4 @@ The maximum total can be obtained if we choose all coins from the last pile.
 
 ## Social rank
 
-:thumbsup: 2039 / :thumbsdown: 35
+:thumbsup: 2371 / :thumbsdown: 37
