@@ -18,19 +18,19 @@ Medium
 
 [solution.go](solution.go)
 
-[LeetCode submissions section](https://leetcode.com/problems/group-anagrams/submissions/1615992382/)
+[LeetCode submissions section](https://leetcode.com/problems/group-anagrams/submissions/1616019720/)
 
 ### Performance
 
-[LeetCode submission details](https://leetcode.com/submissions/detail/1615992382/)
+[LeetCode submission details](https://leetcode.com/submissions/detail/1616019720/)
 
 #### CPU
 
-Took 18 ms (beats 21.57%)
+Took 9 ms (beats 73.90%)
 
 #### Memory
 
-Used 10 MB (beats 41.11%)
+Used 9.5 MB (beats 72.15%)
 
 ## Problem statement
 

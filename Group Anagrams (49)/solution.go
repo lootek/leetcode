@@ -1,20 +1,25 @@
 func groupAnagrams(strs []string) [][]string {
-    wordsMap := map[string][]string{}
-
-    for _, word := range strs {
-        normalizedArr := strings.Split(word, "")
-        sort.Strings(normalizedArr)
-        normalized := strings.Join(normalizedArr, "")
-
-        anagrams := wordsMap[normalized]
-        anagrams = append(anagrams, word)
-        wordsMap[normalized] = anagrams
-    }
-
+	wordsMap := map[string]int{}
     res := [][]string{}
-    for _, list := range wordsMap {
-        res = append(res, list)
-    }
+	cnt := 0
+	for _, word := range strs {
+		normalizedArr := []byte(word)
+		sort.Slice(normalizedArr, func(i, j int) bool {
+			return normalizedArr[i] < normalizedArr[j]
+		})
+		normalized := string(normalizedArr)
 
-    return res
+		id, ok := wordsMap[normalized]
+        if !ok {
+            id = cnt
+            wordsMap[normalized] = id
+            res = append(res, []string{})
+
+			cnt++
+		}
+
+		res[id] = append(res[id], word)
+	}
+
+	return res
 }
