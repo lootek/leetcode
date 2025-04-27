@@ -1,13 +1,13 @@
 func letterCombinations(digits string) []string {
-	keys := map[byte][]byte{
-		'2': []byte{'a', 'b', 'c'},
-		'3': []byte{'d', 'e', 'f'},
-		'4': []byte{'g', 'h', 'i'},
-		'5': []byte{'j', 'k', 'l'},
-		'6': []byte{'m', 'n', 'o'},
-		'7': []byte{'p', 'q', 'r', 's'},
-		'8': []byte{'t', 'u', 'v'},
-		'9': []byte{'w', 'x', 'y', 'z'},
+	keys := [][]byte{
+		[]byte{'a', 'b', 'c'},
+		[]byte{'d', 'e', 'f'},
+		[]byte{'g', 'h', 'i'},
+		[]byte{'j', 'k', 'l'},
+		[]byte{'m', 'n', 'o'},
+		[]byte{'p', 'q', 'r', 's'},
+		[]byte{'t', 'u', 'v'},
+		[]byte{'w', 'x', 'y', 'z'},
 	}
 
 	D := len(digits)
@@ -15,7 +15,7 @@ func letterCombinations(digits string) []string {
 	N := 0
 
 	for i := 0; i < len(digits); i++ {
-		possibilitiesSoFar[i] = len(keys[digits[i]])
+		possibilitiesSoFar[i] = len(keys[digits[i]-'2'])
 		N = possibilitiesSoFar[i]
 	}
 
@@ -29,7 +29,7 @@ func letterCombinations(digits string) []string {
 	resI := make([]byte, D)
 	for i := 0; i < len(res); i++ {
 		for d := 0; d < D; d++ {
-			resI[d] = keys[digits[d]][(i/(N/possibilitiesSoFar[d]))%len(keys[digits[d]])]
+			resI[d] = keys[digits[d]-'2'][(i/(N/possibilitiesSoFar[d]))%len(keys[digits[d]-'2'])]
 		}
 
 		res[i] = string(resI)
