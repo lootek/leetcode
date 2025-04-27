@@ -13,12 +13,12 @@ func letterCombinations(digits string) []string {
 	D := len(digits)
 	possibilities := make([]int, D)
 	possibilitiesSoFar := make([]int, D)
-    N := 0
+	N := 0
 
 	for i := 0; i < len(digits); i++ {
 		possibilities[i] = len(keys[digits[i]])
 		possibilitiesSoFar[i] = len(keys[digits[i]])
-        N = possibilitiesSoFar[i]
+		N = possibilitiesSoFar[i]
 	}
 
 	for i := 1; i < len(possibilitiesSoFar); i++ {
@@ -28,11 +28,10 @@ func letterCombinations(digits string) []string {
 
 	res := make([]string, N)
 
+	resI := make([]byte, D)
 	for i := 0; i < len(res); i++ {
-		resI := make([]byte, D)
-
 		for d := 0; d < D; d++ {
-			resI[d] = keys[digits[d]][(i / (N / possibilitiesSoFar[d])) % len(keys[digits[d]])]
+			resI[d] = keys[digits[d]][(i/(N/possibilitiesSoFar[d]))%len(keys[digits[d]])]
 		}
 
 		res[i] = string(resI)
