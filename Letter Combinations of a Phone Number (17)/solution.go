@@ -11,12 +11,10 @@ func letterCombinations(digits string) []string {
 	}
 
 	D := len(digits)
-	possibilities := make([]int, D)
 	possibilitiesSoFar := make([]int, D)
 	N := 0
 
 	for i := 0; i < len(digits); i++ {
-		possibilities[i] = len(keys[digits[i]])
 		possibilitiesSoFar[i] = len(keys[digits[i]])
 		N = possibilitiesSoFar[i]
 	}

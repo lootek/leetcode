@@ -18,11 +18,11 @@ Medium
 
 [solution.go](solution.go)
 
-[LeetCode submissions section](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1619580790/)
+[LeetCode submissions section](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1619655395/)
 
 ### Performance
 
-[LeetCode submission details](https://leetcode.com/submissions/detail/1619580790/)
+[LeetCode submission details](https://leetcode.com/submissions/detail/1619655395/)
 
 #### CPU
 
