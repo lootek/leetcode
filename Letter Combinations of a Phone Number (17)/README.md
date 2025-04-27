@@ -18,11 +18,11 @@ Medium
 
 [solution.go](solution.go)
 
-[LeetCode submissions section](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1619660508/)
+[LeetCode submissions section](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1619660667/)
 
 ### Performance
 
-[LeetCode submission details](https://leetcode.com/submissions/detail/1619660508/)
+[LeetCode submission details](https://leetcode.com/submissions/detail/1619660667/)
 
 #### CPU
 
@@ -30,7 +30,7 @@ Took 0 ms (beats 100.00%)
 
 #### Memory
 
-Used 4.1 MB (beats 15.68%)
+Used 4 MB (beats 93.27%)
 
 ## Problem statement
 
